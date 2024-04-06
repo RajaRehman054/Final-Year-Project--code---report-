@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "872513250122",
+    "project_id": "fyp-fcm-a16ca",
+    "storage_bucket": "fyp-fcm-a16ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872513250122:android:7b34e1b96218851bfed7b3",
+        "android_client_info": {
+          "package_name": "com.newswave"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872513250122-ops5fu7cpa272rvn6ivgagm7c8s1ip8e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.newswave",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "872513250122-mfe65k2j1er1fo724kg3m1a5bh8duskc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsfq-_VoY6hnEgC1SRkHRBxG22ptJqr10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872513250122-mfe65k2j1er1fo724kg3m1a5bh8duskc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
